@@ -1,0 +1,19 @@
+{
+  "name": "backend_appeliab",
+  "version": "1.0.0",
+  "description": "Esta es una app de prueba.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "App"
+  ],
+  "author": "Eliab Javier Selva Cruz",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  }
+}
